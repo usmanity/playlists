@@ -3,11 +3,13 @@ grid {
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 10px;
 }
+
 @media screen and (max-width: 768px) {
     grid {
         grid-template-columns: repeat(2, 1fr);
     }
 }
+
 @media screen and (max-width: 480px) {
     grid {
         grid-template-columns: repeat(1, 1fr);
@@ -26,7 +28,7 @@ left {
     overflow: hidden;
 }
 left img {
-width: 100%;
+    width: 100%;
 }
 right {
     width: 75%;
@@ -47,6 +49,7 @@ card {
     min-height: 120px;
     border: 2px solid transparent;
 }
+
 card:hover {
     border: 2px solid rgba(86, 86, 255, 0.6);
     cursor: pointer;

@@ -6,7 +6,7 @@
 
 <grid>
   {#each playlists as playlist}
-    <card>
+    <card class="playlist-card">
       <flex>
         <left>
           <img src={playlist.image} alt={playlist.name} />

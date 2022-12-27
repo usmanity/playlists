@@ -55,3 +55,18 @@ card:hover {
     cursor: pointer;
     transition: all 0.42s ease-in;
 }
+
+.playlist-card flex {
+    padding: 4px;
+    box-sizing: border-box;
+    align-items: flex-start;
+}
+.playlist-card flex img {
+    object-fit: cover;
+    border-radius: 4px;
+}
+.playlist-card right {
+    box-sizing: border-box;
+    padding-left: 20px;
+    
+}

@@ -1,26 +1,14 @@
 [
   {
-    "name": "Top 2020",
-    "link": "https://boardsearch.io",
-    "description": "A test playlist",
-    "image": "/cover.png"
+    "name": "Top 2022",
+    "link": "https://l.mhmd.us/gzhAKW",
+    "description": "According to Spotify, these are my top songs of 2022",
+    "image": "https://wrapped-images.spotifycdn.com/image/yts-2022/large/your-top-songs-2022_large_en.jpg"
   },
   {
-    "name": "Number 2",
-    "link": "https://boardsearch.io",
-    "description": "A test playlist",
-    "image": "/cover.png"
-  },
-  {
-    "name": "Number 2",
-    "link": "https://boardsearch.io",
-    "description": "A test playlist",
-    "image": "/cover.png"
-  },
-  {
-    "name": "Number 2",
-    "link": "https://boardsearch.io",
-    "description": "A test playlist",
-    "image": "/cover.png"
+    "name": "90s Bollywood",
+    "link": "https://l.mhmd.us/fVkTgl",
+    "description": "A playlist of 90s Bollywood songs",
+    "image": ""
   }
 ]

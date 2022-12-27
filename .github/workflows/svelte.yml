@@ -42,7 +42,7 @@ jobs:
       - name: Upload artifacts
         uses: actions/upload-artifact@v3
         with:
-          name: dist directory upload
+          name: github-pages
           path: dist/
   deploy:
     environment:

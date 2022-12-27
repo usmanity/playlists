@@ -85,3 +85,7 @@ card:hover {
     font-size: 12px;
     line-height: 16px;
 }
+
+.playlists-heading {
+    padding: 24px 0;
+}
